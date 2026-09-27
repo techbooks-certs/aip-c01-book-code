@@ -1,0 +1,9 @@
+{
+  "prompt_id": "claims-summary",
+  "version": 2,
+  "owner": "ClaimsAssist teaching project",
+  "model_id": "fixture-converse",
+  "system": "Write an elegant summary. Return only a summary field.",
+  "template": "CLAIM_JSON\n${claim_json}\nEVIDENCE_JSON\n${evidence_json}\nReturn summary only.",
+  "output_fields": ["summary"]
+}

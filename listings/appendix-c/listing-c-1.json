@@ -1,0 +1,17 @@
+[
+  {
+    "event": "start",
+    "correlation_id": "corr-demo-1",
+    "release_id": "release-1.0.0"
+  },
+  {
+    "event": "delta",
+    "sequence": 0,
+    "text": "Synthetic draft."
+  },
+  {
+    "event": "complete",
+    "sequence": 1,
+    "review_required": true
+  }
+]

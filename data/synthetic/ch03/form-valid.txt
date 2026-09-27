@@ -1,0 +1,4 @@
+Claim-ID: claim-0101
+Policy-Number: PL-000042
+Loss-Date: 2026-09-04
+Description: Fictional roof leak after rain. Contact synthetic@example.invalid. No coverage decision exists.

@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "src-form",
+    "tenant_id": "tenant-amber",
+    "claim_id": "claim-0101",
+    "kind": "text_form",
+    "filename": "form-valid.txt",
+    "sha256": "c03c34522473aea33e281b0848af3669aa9d510b9ba10f3e60ef8fc3ae72f15f"
+  },
+  {
+    "source_id": "src-transcript",
+    "tenant_id": "tenant-amber",
+    "claim_id": "claim-0102",
+    "kind": "transcript_fixture",
+    "filename": "transcript.json",
+    "sha256": "87a52d81a8f65178d8c85592dde428920eac903dc1157153e8cb55b4e16ff34d"
+  },
+  {
+    "source_id": "src-copy",
+    "tenant_id": "tenant-amber",
+    "claim_id": "claim-0101",
+    "kind": "text_form",
+    "filename": "form-valid.txt",
+    "sha256": "c03c34522473aea33e281b0848af3669aa9d510b9ba10f3e60ef8fc3ae72f15f"
+  },
+  {
+    "source_id": "src-missing",
+    "tenant_id": "tenant-amber",
+    "claim_id": "claim-0101",
+    "kind": "text_form",
+    "filename": "form-missing-policy.txt",
+    "sha256": "a5d90b28a70a23d2bd422b85e02c075dc5b610da4f9e7e18522e1f076f86028a"
+  },
+  {
+    "source_id": "src-broken",
+    "tenant_id": "tenant-amber",
+    "claim_id": "claim-0101",
+    "kind": "text_form",
+    "filename": "form-broken.txt",
+    "sha256": "f28a01eaa9cb934f8e268062a21abc2d3ecffe960f05075cca4cd312e5c548e5"
+  }
+]

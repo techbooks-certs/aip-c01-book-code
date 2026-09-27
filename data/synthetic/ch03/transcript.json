@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "claim_id": "claim-0102",
+  "policy_number": "PL-000007",
+  "loss_date": null,
+  "segments": [
+    {
+      "start_ms": 0,
+      "end_ms": 2500,
+      "text": "Fictional transcript: water was found in the storage room."
+    },
+    {
+      "start_ms": 3000,
+      "end_ms": 6000,
+      "text": "The caller cannot confirm the loss date."
+    }
+  ]
+}

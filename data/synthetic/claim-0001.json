@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "claim_id": "claim-0001",
+  "tenant_id": "tenant-amber",
+  "description": "SYNTHETIC TRAINING RECORD. A fictional policyholder reports rain entering a storage room after a storm. The loss date and policy version have not yet been supplied. A handler must verify evidence before any coverage decision."
+}

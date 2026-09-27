@@ -1,0 +1,8 @@
+{
+  "name": "propose_evidence_request",
+  "input": {
+    "request_id": "request-0001",
+    "source_id": "pol-4821",
+    "message": "Please provide supporting photographs."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "claim_id": "claim-0002",
+  "tenant_id": "tenant-birch",
+  "description": "SYNTHETIC NEGATIVE TEST. This record belongs to another fictional tenant and must be rejected under the tenant-amber context."
+}

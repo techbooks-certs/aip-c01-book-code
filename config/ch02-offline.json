@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "allowed_regions": ["us-east-1"],
+  "routes": [
+    {"name": "candidate-a", "model_id": "offline-candidate-a", "max_output_tokens": 512, "source_region": "us-east-1", "destination_regions": ["us-east-1"]},
+    {"name": "candidate-b", "model_id": "offline-candidate-b", "max_output_tokens": 512, "source_region": "us-east-1", "destination_regions": ["us-east-1"]}
+  ]
+}

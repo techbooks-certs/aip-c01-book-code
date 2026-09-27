@@ -1,0 +1,8 @@
+{
+  "event_id": "doc-event-17",
+  "type": "document.ready",
+  "schema_version": 1,
+  "claim_ref": "claim-0001",
+  "source_ref": "upload-17",
+  "source_version": "v2"
+}

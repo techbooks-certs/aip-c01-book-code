@@ -1,0 +1,5 @@
+{
+  "vectorField": "policy_vector",
+  "textField": "policy_text",
+  "metadataField": "kb_metadata"
+}

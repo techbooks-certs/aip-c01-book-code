@@ -1,0 +1,160 @@
+{
+  "release_id": "release-one",
+  "rubric_version": "support-v1",
+  "window_start": "2026-09-20T09:00:00Z",
+  "window_end": "2026-09-20T09:05:00Z",
+  "label_provenance": "authored_fixture",
+  "reviewer_ref": "authored-teaching-labels",
+  "cases": [
+    {
+      "case_id": "synthetic-01",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-02",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-03",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-04",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-05",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-06",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-07",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-08",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-09",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-10",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-11",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-12",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-13",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-14",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-15",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-16",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-17",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-18",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-19",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-20",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-21",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-22",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-23",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-24",
+      "label": "accepted",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-25",
+      "label": "rejected",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-26",
+      "label": "rejected",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-27",
+      "label": "rejected",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-28",
+      "label": "rejected",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-29",
+      "label": "rejected",
+      "provenance": "authored_fixture"
+    },
+    {
+      "case_id": "synthetic-30",
+      "label": "rejected",
+      "provenance": "authored_fixture"
+    }
+  ]
+}
